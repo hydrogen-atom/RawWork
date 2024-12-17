@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github repo\\Arcas.Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\models\\exchangedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:models\\exchangedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\models\\isbncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:models\\isbncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\models\\bookid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:models\\bookid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\models\\autoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:models\\autoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\data\\arcasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:data\\arcasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\migrations\\20241217082815_renew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:migrations\\20241217082815_renew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\sqltest.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:sqltest.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\migrations\\arcasdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:migrations\\arcasdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\migrations\\20241214084316_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:migrations\\20241214084316_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\helpers\\tokengenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:helpers\\tokengenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|d:\\github repo\\arcas.server\\sqltest.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F748DC05-2BAE-46BE-900A-5C483286162B}|sqlTest.Server.csproj|solutionrelative:sqltest.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:58:16.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Models\\Address.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Models\\Address.cs",
+              "RelativeToolTip": "Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:59:50.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoResponseDto.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Models\\AutoResponseDto.cs",
+              "RelativeDocumentMoniker": "Models\\AutoResponseDto.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Models\\AutoResponseDto.cs",
+              "RelativeToolTip": "Models\\AutoResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:04:51.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookID.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Models\\BookID.cs",
+              "RelativeDocumentMoniker": "Models\\BookID.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Models\\BookID.cs",
+              "RelativeToolTip": "Models\\BookID.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:01:34.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:56:50.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISBNcode.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Models\\ISBNcode.cs",
+              "RelativeDocumentMoniker": "Models\\ISBNcode.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Models\\ISBNcode.cs",
+              "RelativeToolTip": "Models\\ISBNcode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:01:10.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExchangeDetails.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Models\\ExchangeDetails.cs",
+              "RelativeDocumentMoniker": "Models\\ExchangeDetails.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Models\\ExchangeDetails.cs",
+              "RelativeToolTip": "Models\\ExchangeDetails.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA2wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:00:42.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArcasDbContext.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Data\\ArcasDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ArcasDbContext.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Data\\ArcasDbContext.cs",
+              "RelativeToolTip": "Data\\ArcasDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAArwCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:54:16.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241217082815_renew.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Migrations\\20241217082815_renew.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241217082815_renew.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Migrations\\20241217082815_renew.cs",
+              "RelativeToolTip": "Migrations\\20241217082815_renew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:29:13.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterDto.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Models\\RegisterDto.cs",
+              "RelativeToolTip": "Models\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:56:24.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Models\\LoginDto.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Models\\LoginDto.cs",
+              "RelativeToolTip": "Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:04:17.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:54:15.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".filenesting.json",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\.filenesting.json",
+              "RelativeDocumentMoniker": ".filenesting.json",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\.filenesting.json",
+              "RelativeToolTip": ".filenesting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T07:56:58.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:51:30.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:51:16.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T10:35:07.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "sqlTest.Server.csproj",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\sqlTest.Server.csproj",
+              "RelativeDocumentMoniker": "sqlTest.Server.csproj",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\sqlTest.Server.csproj",
+              "RelativeToolTip": "sqlTest.Server.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAABIwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T08:55:46.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T09:05:56.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArcasDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Migrations\\ArcasDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ArcasDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Migrations\\ArcasDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ArcasDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:05:29.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241214084316_InitialCreate.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Migrations\\20241214084316_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241214084316_InitialCreate.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Migrations\\20241214084316_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241214084316_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:04:30.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TokenGenerate.cs",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\Helpers\\TokenGenerate.cs",
+              "RelativeDocumentMoniker": "Helpers\\TokenGenerate.cs",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\Helpers\\TokenGenerate.cs",
+              "RelativeToolTip": "Helpers\\TokenGenerate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:54:18.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "sqlTest.Server",
+              "DocumentMoniker": "D:\\github repo\\Arcas.Server\\sqlTest.Server.csproj",
+              "RelativeDocumentMoniker": "sqlTest.Server.csproj",
+              "ToolTip": "D:\\github repo\\Arcas.Server\\sqlTest.Server.csproj",
+              "RelativeToolTip": "sqlTest.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T10:24:52.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

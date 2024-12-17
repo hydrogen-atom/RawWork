@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "842hVxlB3haI2NtM/EEdQuvqDuvxx4OqWuEYtibs3Ik=",
+  "Source": "sqlTest.Server",
+  "BasePath": "_content/sqlTest.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
